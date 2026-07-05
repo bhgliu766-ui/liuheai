@@ -1,0 +1,20 @@
+<template>
+  <div>
+    <h2>首页</h2>
+  </div>
+</template>
+<template>
+  <div>
+    <h2>订单</h2>
+  </div>
+</template>
+<template>
+  <div>
+    <h2>消息</h2>
+  </div>
+</template>
+<template>
+  <div>
+    <h2>我的</h2>
+  </div>
+</template>
